@@ -1,4 +1,4 @@
-package com.example.aws_lerning;
+package com.example.aws.lerning;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

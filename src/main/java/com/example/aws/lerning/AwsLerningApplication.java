@@ -1,4 +1,4 @@
-package com.example.aws_lerning;
+package com.example.aws.lerning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
