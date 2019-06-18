@@ -8,4 +8,4 @@ services:
       args:
         jarFile: target/aws_lerning-0.0.1-SNAPSHOT.jar
     ports:
-      - 9191:8080
+      - 8080:8080
